@@ -12,6 +12,15 @@
 # Publisher Facebook: https://www.Facebook.com/AionianBible
 #
 
+The PDFs in this repository are available for your own reprinting or publishing without alteration
+on any platform EXCEPT Amazon KDP, Lulu, and Ingram Lightning Source.  Each Bible translation includes
+a PDF cover and PDF interior file and in some cases both a full Bible and a New Testament only.
+The PDF files are named "Aionian-Bible---LANGUAGE---TRANSLATION---POD_KDP_(ALL|NEW)_(BODY|COVER).pdf.
+POD is an acronym for Print on Demand.  KDP is an acronym for Kindle Direct Publishing.  These are
+the very files that Nainoia Inc uses to publish these Bible at Amazon KDP.  These same file should
+work for book publication at your local printer or other print on demand services.  But again you
+may not publish with these copyrighted PDF files at Amazon KDP, Lulu, or Ingram Lightning Source.
+
 The AionianBible.org website and all supporting content is copyrighted with the Creative Commons No
 Derivative Works license allowing 100% freedom to copy and print for personal, non-profit, non-commercial,
 and commercial profit purposes, but further editorial and translation work must begin with the sources.
